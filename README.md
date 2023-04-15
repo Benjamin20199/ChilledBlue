@@ -5,7 +5,7 @@
 
 ChilledBlue is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by Andraz#0001 !
 
-## Commandes 
+## Commands :
 - Config : `/setlang`
 - Radio :  `/play` `/stop`
 - General : `/help`, `/invite` `/stats` 
